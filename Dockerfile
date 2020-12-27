@@ -1,5 +1,7 @@
 FROM node:12
 
+MAINTAINER Marino Franz, <me@marino.codes>
+
 # Create dir
 WORKDIR /usr/src/app
 
